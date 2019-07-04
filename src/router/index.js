@@ -22,6 +22,11 @@ let routes = [{
       path: '/one',
       component: oneee,
       name: '第一个子菜单'
+    },
+    {
+      path: '/table',
+      component: TableMain,
+      name: '第2个子菜单'
     }
   ]
 }]

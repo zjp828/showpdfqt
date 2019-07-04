@@ -1,13 +1,18 @@
 <template>
-  <div>{{msg}}</div>
+  <div>
+
+    <el-button type="primary">爬取数据</el-button>
+  </div>
 </template>
 
 <script>
   export default {
-
-    return:{
-      msg:'aaaaaaaaaaaaaaa'
+    data(){
+      return{
+        msg:'aaaaaaaaaaaaaaa'
+      }
     }
+
   }
 </script>
 

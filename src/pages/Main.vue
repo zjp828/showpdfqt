@@ -15,8 +15,8 @@
                   <span>菜单管理</span>
                 </template>
                 <el-menu-item-group>
-                  <el-menu-item index="1-1"><i class="fa fa-user-circle-o"></i>爬取数据</el-menu-item>
-                  <el-menu-item index="1-2"><i class="fa fa-file-text-o"></i>查看数据</el-menu-item>
+                  <el-menu-item index="one"><i class="el-icon-monitor" ></i>爬取数据</el-menu-item>
+                  <el-menu-item index="table"><i class="el-icon-search"></i>查看数据</el-menu-item>
                 </el-menu-item-group>
               </el-submenu>
             </el-menu>
